@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kenseikun.trening",
+      "sha256_cert_fingerprints": ["18:B0:39:8C:43:F4:85:44:73:AF:B7:6B:62:33:51:DE:1A:22:A3:84:3F:77:2F:1B:98:1A:31:AA:3E:9F:27:3F"]
+    }
+  }
+]
